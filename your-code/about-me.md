@@ -23,9 +23,10 @@
 	It's my first day, I will try to answer this questions during the program.
 	
 * Which industry will you seek employment in?
+	Tech and software companies
 	
 * What will your future role look like?
 	Product Owner or Project Manager in a tech company or at my own one.
 	
 * What is your career goal?
-	
+	Be able to adapt to the needs of tech companies for the next years
